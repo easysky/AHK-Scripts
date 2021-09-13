@@ -1,0 +1,1 @@
+# AHK-for-TotalCMD
