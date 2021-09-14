@@ -1,4 +1,10 @@
-﻿#SingleInstance Ignore
+﻿;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;~ 文 件：	rToalCMD_Setup.ahk —— rToalCMD.ahk 的配置文件
+;~ 作 者:	Cui @ easysky@foxmail.com
+;~ 版 本：	v0.05 （2021年9月11日）
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+#SingleInstance Ignore
 
 If !A_IsAdmin
 {
@@ -155,8 +161,8 @@ Msgbox,262208,关于 rTotalCMD,
 (
 rTotalCMD - 将 TC 设置为默认文件管理器
 版本: v0.0.5（2021/09/11）
-`nEasysky Studio, 2013-%A_yyyy%
-[Email]%A_Tab%easysky@foxmail.com
+`nCui @2013-%A_yyyy%
+`n[Email]%A_Tab%easysky@foxmail.com
 [QQ]%A_Tab%3121356095#easysky
 [主页]%A_Tab%https://easysky.top
 `n我的追求 — 新颖、便携、简洁、高效、人性化体验
