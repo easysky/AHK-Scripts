@@ -7,7 +7,7 @@
 - 未测试老掉牙的 WinXP 和新秀 Win11，因未没有测试设备 :)
 
 ### 三、脚本文件列表：
-+ 初始仅有一个脚本：
++ 仅一个脚本：
   - **TCmklink.ahk**：根据系统直接使用脚本或编译后的可执行程序。
 
 ### 四、使用说明及注意事项
@@ -17,6 +17,7 @@
      -  点击 TC 主菜单“开始” -> “更改开始菜单” -> 在弹出窗口中点击右侧“添加项目” -> 弹出窗口“新菜单标题” 设置菜单名称 -> “确定” -> 下方“命令”输入框中输入 TCmklink.exe 的完整路径 -> “参数”输入框中填入“%T %P%S”（注意%T和%P之间有一个空格）-> 右侧“确定”按钮
      -  在 TC 两个窗口中设置好目录，并在活动窗口中选择要创建目录联接的文件夹（只可选择一个）
      -  TC 主菜单 -> “开始”，点击自定义的菜单即可
-    ![TCmklink设置](https://gitee.com/skycyf/img/raw/master/img/TCmklink.png)
+    
+![TCmklink设置](https://gitee.com/skycyf/img/raw/master/img/TCmklink.png)
     
 <p align="right">By: Cui # cyuffei@foxmail.com # 2021.9.16</p>
