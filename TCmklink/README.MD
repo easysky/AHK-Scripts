@@ -20,4 +20,4 @@
     
 ![TCmklink设置](https://gitee.com/skycyf/img/raw/master/img/TCmklink.png)
     
-<p align="right">By: Cui # cyuffei@foxmail.com # 2021.9.16</p>
+`By: Cui # cyuffei@foxmail.com # 2021.9.16`
